@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "Lorenzo Marzola"
 //
 //
 // Descrição   : Aqui você descreve o que o programa faz! (função)
